@@ -1,4 +1,4 @@
 bienvenidos al show de jimmy \
 donde aprenderas de git y github
 y mucho mas
-aprenderemos a hacer raices del proyecto principal para despues usar github
+aprithub
